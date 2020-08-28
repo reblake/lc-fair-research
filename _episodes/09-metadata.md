@@ -13,3 +13,12 @@ objectives:
 keypoints:
 - ""
 ---
+
+# F: How does metadata make my data Findable?
+
+# A: How can I use metadata to make my data Accessible?
+
+# I: How does metadata make my data Interoperable?
+
+# R: How can I create metadata thate makes my data Reuseable?
+
